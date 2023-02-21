@@ -1,0 +1,11 @@
+1) https://github.com/BlockDMask/Python_dinosaur_game 깃 주소로 들어가기
+ ->Code 클릭 ->download ZIP 클릭 ->압축 풀기
+2) anaconda.com 접속 ->다운로드 클릭 ->설치 ->jupyter notebook 다운로드
+3) jetbrains.com/pycharm 접속 ->다운로드 ->professional과 comunity중에 comunity선택
+->설치 ->신규 설치
+4)window 검색창에 anaconda prompt 검색 후 실행 
+-> 명령어 창에 pip install pygame 입력 후 엔터
+5)파이썬 키고 공룡 점프 게임 실행
+6)No module named 'pygame' 오류가 생김
+7)보기->명령팔레트 ->python: select interpreter을 입력해 더블클릭
+->뒤에 conda가 달린 명령어 클릭 -> 다시 실행
