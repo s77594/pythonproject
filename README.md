@@ -9,4 +9,4 @@
 
 
 
-공룡 점프 게임 참고자료 https://blockdmask.tistory.com/419 
+dinosaur jump game 참고자료 https://blockdmask.tistory.com/419 
